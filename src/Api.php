@@ -14,7 +14,7 @@
  *              http://developer.longtailvideo.com/botr/system-api/
  *-----------------------------------------------------------------------------
  */
-namespace JWPlayerApi\Api;
+namespace JWPlayerApi;
 
 /**
  * API
