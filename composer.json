@@ -1,0 +1,14 @@
+{
+    "name": "candybanana/jwplayer-api",
+    "license": "MIT",
+    "description": "PHP interface to the JWPlayer API.",
+    "keywords": ["jwplayer", "platform", "api"],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "JWPlayerApi\\": "src"
+        }
+    }
+}
